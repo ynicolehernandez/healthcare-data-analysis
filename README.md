@@ -16,12 +16,23 @@ using Excel, MySQL, and Power BI.
 - Power BI — Data visualization and dashboard development
 - GitHub — Project documentation and version control
 
+## Data Preparation
+
+The dataset was cleaned and prepared in Excel before being
+loaded into MySQL.
+
+Data preparation included:
+
+- Reviewing column names and data types
+- Checking for missing values
+- Standardizing date fields
+- Reviewing duplicate records
+- Checking numerical fields for consistency
+- Preparing the dataset for SQL analysis
+
 ## Project Workflow
 
 Excel → MySQL → Power BI → Business Insights
-
-## Dashboard
-
 
 ## Business Questions
 
@@ -48,3 +59,21 @@ Excel → MySQL → Power BI → Business Insights
 - How many patients are admitted each month for each year?
 - How do billing amounts change over time?
 - How many cases of each medical condition occurred each year?
+
+## Dashboard
+
+## Key Insights
+
+- [Your actual finding about patient age distribution]
+- [Your actual finding about the most common medical conditions]
+- [Your actual finding about hospital admissions]
+- [Your actual finding about billing]
+- [Your actual finding about length of stay]
+
+## Limitations
+
+- The analysis is based on the available fields in the dataset.
+- Results represent the provided dataset and may not reflect
+  real-world healthcare populations.
+- The analysis identifies relationships and patterns but does
+  not establish causation.
