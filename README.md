@@ -60,8 +60,6 @@ Excel → MySQL → Power BI → Business Insights
 - How do billing amounts change over time?
 - How many cases of each medical condition occurred each year?
 
-## Dashboard
-
 ## Key Insights
 
 - [Your actual finding about patient age distribution]
