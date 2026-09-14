@@ -62,11 +62,38 @@ Excel → MySQL → Power BI → Business Insights
 
 ## Key Insights
 
-- [Your actual finding about patient age distribution]
-- [Your actual finding about the most common medical conditions]
-- [Your actual finding about hospital admissions]
-- [Your actual finding about billing]
-- [Your actual finding about length of stay]
+### Patient Demographics
+- The dataset contains 54,966 patients with an average age of 51.54 years.
+- Adults aged 19–64 represent the majority of patients at 67.6%, while patients aged 65+ account for 30.8%.
+- Arthritis is the most common medical condition in the dataset, followed by Diabetes and Hypertension.
+- Medical conditions are relatively evenly distributed between male and female patients, with only small differences across conditions.
+
+### Hospital Operations
+- The average patient length of stay is 15.50 days.
+- Emergency admissions have the longest average length of stay at 15.58 days.
+- LLC Smith has the highest patient admission count among the hospitals analyzed, with 44 patients.
+- Michael Smith has the highest patient count among the top doctors analyzed, with 27 patients.
+
+### Financial Analysis
+- The average billing amount is approximately $26,000, with total billing of approximately $1.40 billion.
+- Obesity has the highest average billing amount at approximately $25.80K, followed closely by Asthma at $25.63K.
+- Cigna has the highest patient count among insurance providers, covering 11,139 patients.
+- Johnson PLC has the highest total billing among the hospitals shown, at approximately $1.08 million.
+
+### Trends
+- Monthly patient admissions remain relatively stable across the years analyzed, generally staying close to 1,000 admissions per month.
+- Average billing amounts remain relatively consistent across the years shown, staying within approximately the $25K–$26K range.
+- Medical condition volumes remain relatively consistent over time, with no single condition showing a dramatic sustained increase or decrease.
+
+## Business Takeaways
+
+The analysis shows that the patient population is primarily made up of adults aged 19–64, with relatively balanced representation across genders and several conditions occurring at similar frequencies.
+
+From an operational perspective, the average length of stay is approximately 15.5 days, with emergency admissions having the longest average stay. This could help healthcare organizations identify areas where admission type and length of stay may warrant further operational analysis.
+
+Financially, average billing remains relatively consistent at approximately $25K–$26K, while differences in billing emerge across medical conditions and hospitals. These patterns can help identify areas for deeper investigation into healthcare costs and resource utilization.
+
+Overall, the project demonstrates how healthcare data can be transformed from raw records into actionable insights across patient demographics, operations, financial performance, and trends.
 
 ## Limitations
 
